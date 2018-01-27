@@ -1,0 +1,101 @@
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/footer.css");
+@import url("components/card.css");
+@import url("components/feature.css");
+
+body {
+  margin: 0;
+  font-family: Open-sans, sans-serif;
+}
+h1, h2, h3 {
+  font-family: Raleway, Helvetica, sans-serif;
+}
+h2 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  margin-top: 0;
+}
+.padded {
+  padding: 100px 0;
+}
+.wrapper-grey {
+  background: #F4F4F4;
+}
+@import url("banner.css");
+@import url("nav.css");
+@import url("card.css");
+@import url("dropdown.css");
+@import url("sidebar.css");
+@import url("buttons.css");
+
+.col-sm-4{
+	
+	text-align: center;
+}
+
+
+.avatar-large {
+  width: 200px;
+  border-radius: 50%;
+}
+
+
+
+body{
+	font-family: "Open-Sans", "Helvetica", "sans-serif";
+	padding-bottom: 200px;
+}
+
+h1, h2, h3{
+	font-family: "Montserrat", "sans-serif";
+
+}
+
+/*h1{
+	color: #F7443F;
+} 
+
+
+h2, h3{
+	color: #C91611 ;
+
+}
+p:first-letter{
+	font-size: 25px;
+	font-weight: bold;
+	color: blue;
+}
+body{
+	font-family: "trebuchet ms", sans serif;
+	font-size: 18px;
+}
+.form1{
+	background-color: #FAFAFA;
+	padding: 10px;
+	width: 280px;
+
+}
+
+.input, 
+.textarea{
+	padding: 50px;
+	border:1px solid #F5C5C5;
+	border-radius: 5px;
+	width: 400px;
+	box-shadow: 1px 1px 2px #C0C0C0 inset;
+}
+.input[type=submit]{
+	width: 110px;
+	margin-left: 5px;
+	box-shadow: 1px 1px 1px red;
+	cursor: pointer;
+}
+
+.background-color{
+	opacity: 0.3;
+}
+.background-image{
+border-radius: 5px;
+}*/

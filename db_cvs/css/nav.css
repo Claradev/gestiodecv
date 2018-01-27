@@ -1,0 +1,50 @@
+.navbar{
+	border-radius: 10px;
+}
+
+body{
+	padding-top: 10px;
+	background-color: lemonchiffon;
+}
+div{
+
+}
+
+p{
+	background-color: gainsboro;
+}
+.container{
+	padding-right: 15px;
+	padding-left: 15px;
+	margin: auto;
+
+}
+
+[class*="col"]{
+	margin-bottom: 15px;
+
+}
+
+.p1{
+	height: 150px;
+	width: 280px;
+}
+.p2{
+	height: 350px;
+}
+.p3{
+	height: 200px;
+}
+.p4{
+	height: 60px;
+	width: 190px;
+	margin-left: 5px; 
+	float: right;
+}
+#section{
+	margin-top: 50px;
+	
+}
+.p5{
+	height: 150px;
+}
